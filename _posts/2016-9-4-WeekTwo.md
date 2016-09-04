@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Week One!
+title: Week Two!
 ---
 
-<b>Alright</b> friends, <b>let's</b> get <b>explicit</b>.
+<b>Here</b> we, <b>go</b> again.
 <br>
 
 <b>What did you do this week?:</b>
