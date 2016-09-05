@@ -7,14 +7,14 @@ title: Week Two!
 <br>
 
 <b>What did you do this week?:</b>
-<br>This week we covered class logistics and talked about a few useful development tools: GoogleTest and gcov. We also went over a few of the differences between Java and C++. I managed to get the docker image set up on Wednesday, and have spent the days since then getting comfortable with git and github again. It didn't take long to get this blog set up, but I'll probably spend a few hours in the following weeks getting it to look better and clean up my own awful post formatting. Overall, it's been a productive first week of class! It's going to be a busy semester!<br>
+<br><br>
 
 <b>What's in your way?</b>
-<br>Most frustratingly; my complete lack of <b>"professional"</b> pictures of myself. Hopefully this one will do, I'd rather not have to buy a button up to properly maintain a blog. Barring trivial things like that, I do need to get more comfortable with C++ after a year and a half of Java, C, and theory. As an aside, I hope the fact that I'm using Docker Toolbox doesn't ever show up in this section.<br>
+<br><br>
 
 <b>What will you do next week?</b>
-<br>Hopefully get started on the first project for this class. Until we get more information, I'll just be reading the book and practicing some C++ to prep.<br><br>
+<br><br><br>
 
-<p>Whew! Now that the <b>explicit</b> bits are done, we can talk for a paragraph or two. We've only had a day and a half's worth of class time, but we're already getting into a good class flow. Downing's teaching style is fantastic thus far, at least for my tastes. We're leaving the book material out of the class and focusing on interactive examples, all of which have been relevant, organized, and to the point.<br><br>Although I feel confident that I can answer, or at least guess at, the questions that are asked in class, being called out is extremely nerve wracking. That good ol' public speaking anxiety :^) Regardless, I'm loving the class so I don't feel that it'll be much of an issue. Not much else to say at this point, so we'll leave off with a few notes and maybe a tip.</p><br>
+<p></p><br>
 
-<p><b>And now, here's a spicy tip:</b> As fun as it is to work on Linux, I've been messing around with Clion, an IDE for C and C++ by JetBrains. Many of you may already be familiar with IntelliJ, JetBrains' Java IDE. Clion is newer and slightly buggier, but smooth and has some convenient integration with multiple version control systems, GitHub included. As long as you have Cygwin installed, it's a nice environment for developing on Windows. <b>Also</b>, if you check the cs371p section of the professor's GitHub, a few files were posted under /projects/collatz. We'll probably get an announcement about the project soon but the files are worth skimming through.<br><br>As a final note, I'm going to treat this as a personal blog and keep the language at least a little personal and casual. I will, however, try my best to provide at least <i>some</i> insight. We'll see how it goes. Until next time, dear reader.</p>
+<p></p>
