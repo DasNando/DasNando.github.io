@@ -3,7 +3,7 @@ layout: post
 title: Week Two!
 ---
 
-We're really getting into the <b>groove<\b> of things now, aren't we?
+We're really getting into the <b>groove</b> of things now, aren't we?
 <br>
 
 <b>What did you do this week?:</b>
