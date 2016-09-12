@@ -18,7 +18,7 @@ Oh man that was nerve-wracking. Principally because of the requirement that the 
 <br>
 <br>
 About the class, it felt nice to hear Downing address the way many CS students (along with everyone else in the world) can feel about their own abilities. I haven't actually ever had an internship in four years for exactly this reason, and it doesn't seem like there's any room in CS for people like me. We'll see. But this class feels like a good start, and that's enough.
-<br>
+<br><br>
 <b>WHEW!</b> Got a little personal there, didn't we, reader?
 <br> Oh well, this blog is as much for me as it is for anything else, so no worries.
 <br>As for the tip of the week: I recently came across <a href="https://toggl.com/">Toggl</a>. After we were asked to keep track of our working time, I realized how absolutely impossible it is to care about time when you're so busy. I haven't gotten a chance to use Toggl yet, but maybe for this next project!
