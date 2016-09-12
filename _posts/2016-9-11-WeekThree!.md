@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Two!
+title: Week Three!
 ---
 
 We're really getting into the <b>groove</b> of things now, aren't we?
