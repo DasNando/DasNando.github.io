@@ -12,7 +12,7 @@ Fourth Week, oh boy.
 
 <b>What's in your way?</b>
 <br>C++. I'm still not a fan of the language. I'm sure I would be if I were better at it but some things are just off-putting to me. The Boost library actually alleviates a lot of those
- concerns, though. I'll keep working at it, however. At the very least, it's comforting that programming principles are consistent, mostly, regardless of language, such as algorithm design.<br>
+ concerns, though. I'll keep working at it, however. I'm sure C++ will be just as useful as Java in the professional world, if not more. At the very least, it's comforting that programming principles, such as algorithm design, are consistent, mostly, regardless of language.<br>
 
 <b>What will you do next week?</b>
 <br>I need to finish project 2. I feel that we're making this project a little more complicated than it should be, and the code needs some restructuring, but I'm sure K and I can get a solid RMSE going.<br>
