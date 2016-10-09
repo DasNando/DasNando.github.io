@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Week Six!
+title: Week Seven!
 ---
 
-Week numero six.
+La septima semana.
 <br>
 
 <b>What did you do this week?</b>
