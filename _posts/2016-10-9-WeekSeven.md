@@ -7,16 +7,16 @@ Week numero six.
 <br>
 
 <b>What did you do this week?</b>
-<br>This week has been a quiet one for OOP. With projects or homework of any sort on the horizon, the only thing to do now is prep for the exam. I don't really know what to expect, but open-note exams are always very bright red flags. They're sensible, sure. We won't ever be told not to research things we don't know once we're actually out in the workforce, but they still tend to be pretty tough. We'll see. I've gone over the readings and class notes, and hopefully it will be enough.<br>
+<br>Took the OOP exam! All in all it was fair, I suppose. A little shallow but that's alright, I still feel that I did well enough. I've also been working on a Graphics project for Fussell's class. Apart from all the programming, I've been making more music, so that's a plus. The weather's finally nice enough to start running, too.<br>
 
 <b>What's in your way?</b>
-<br>Again, nothing really. The attendance policy is starting to feel a bit harsh considering the state of my mental health, but it's not exactly something you can haggle over, so I just have to keep showing up to class. The material itself is intuitive, the only exception being pointers. Maybe writing out some short example code will help drive some of those points home.<br>
+<br>As of right now, the specs for the next OOP project. Not sure what to make of them, but I'm sure we'll get more details on Mnoday. CMake has also been an enormous hassle when I try to develop anything in CLion, so I may switch away from it.<br>
 
 <b>What will you do next week?</b>
-<br>Review a couple more times for this exam, and hopefully get an early start on my other projects and essays. The lessons overall this semester have been concise and to the point, so it shouldn't be too difficult. I have a JPG to ASCII art project that I've been working on. Right now it's working pretty well, but it's very rudimentary, as it only really involves sampling on luminosity components, but I'd like to get it working with some line detection next.<br>
+<br>Start on the project, as usual. I need to finish this Graphics project first and foremost, then I have a few essays to write for my remaining classes. It's looking to be a pretty busy week! When I get the time, I've also been looking into some fun applications of Markov chains, namely in phrase generators. I might cook one up and train it on some famous novels, see what gems I can pick out.<br>
 <br>
-My tip for this week is that winding down doesn't have to be counterproductive. Find something you like, like a podcast or youtube series, that connects to your interests without being completely brain-numbing. I personally love history, and when things get a little dense at school, I use <a href="http://15minutehistory.org/">15 Minute History</a> to slow down. It's a fun exercise in relaxation, so try it out!
+My tip for this week is, again, not CS related. The Fall is here and the weather is beautiful. Go outside, go for a walk and take what you will from it.
 <br>
-Good look on your exams, everyone!
+Hope you're all doing well, friends.
 <br><br>
 Until next time, dear reader.
