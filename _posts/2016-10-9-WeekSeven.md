@@ -1,0 +1,22 @@
+---
+layout: post
+title: Week Six!
+---
+
+Week numero six.
+<br>
+
+<b>What did you do this week?</b>
+<br>This week has been a quiet one for OOP. With projects or homework of any sort on the horizon, the only thing to do now is prep for the exam. I don't really know what to expect, but open-note exams are always very bright red flags. They're sensible, sure. We won't ever be told not to research things we don't know once we're actually out in the workforce, but they still tend to be pretty tough. We'll see. I've gone over the readings and class notes, and hopefully it will be enough.<br>
+
+<b>What's in your way?</b>
+<br>Again, nothing really. The attendance policy is starting to feel a bit harsh considering the state of my mental health, but it's not exactly something you can haggle over, so I just have to keep showing up to class. The material itself is intuitive, the only exception being pointers. Maybe writing out some short example code will help drive some of those points home.<br>
+
+<b>What will you do next week?</b>
+<br>Review a couple more times for this exam, and hopefully get an early start on my other projects and essays. The lessons overall this semester have been concise and to the point, so it shouldn't be too difficult. I have a JPG to ASCII art project that I've been working on. Right now it's working pretty well, but it's very rudimentary, as it only really involves sampling on luminosity components, but I'd like to get it working with some line detection next.<br>
+<br>
+My tip for this week is that winding down doesn't have to be counterproductive. Find something you like, like a podcast or youtube series, that connects to your interests without being completely brain-numbing. I personally love history, and when things get a little dense at school, I use <a href="http://15minutehistory.org/">15 Minute History</a> to slow down. It's a fun exercise in relaxation, so try it out!
+<br>
+Good look on your exams, everyone!
+<br><br>
+Until next time, dear reader.
