@@ -13,7 +13,8 @@ We're almost done! :D
 <br>These new principles, maybe! I feel like I have a good grasp of it, but I have no idea! I haven't gotten any yes or no answers on whether or not my methods are okay. I guess I'll find out soon, so I'll do some googling in the meantime. My quiz grade is probably suffering right now, too. I haven't done very well on these recent quizzes, so I'll have to improve that as well.<br>
 
 <b>What will you do next week?</b>
-<br>Now that the timer's been reset for this class, I'll be focusing on Graphics, at least for the next few days.<br>
+<br>Now that the timer's been reset for this class, I'll be focusing on Graphics, at least for the next few days. I'd like to start on this new project a little bit earlier this time, and I'll need to find a parter to work with. I've really enjoyed this partner policy, now that I mention it. The UTCS community has always felt pretty open. Whether it's Graphics or 439 or OOP, everyone seems open to helping others and explaining their own unique thought processes for solving a problem. The partner policy makes these interactions even more fluid, and it's been fantastic.<br>
 <br>
+For the find of the week, my need to switch text editors led me to <a href="http://vimawesome.com/">Vim Awesome</a>. It's just a directory of a bunch of vim plugins, but it's cool. I'd recommend vim itself but I don't want to start a flame war :^)
 <br><br>
 Until next time, dear reader.
