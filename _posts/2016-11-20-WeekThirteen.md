@@ -1,22 +1,21 @@
 ---
 layout: post
-title: Week Twelve!
+title: Week Thirteen!
 ---
 
-So close, we're so close.
-<br>
+Thanksgiving day approaches!!<br>
 
 <b>What did you do this week?</b>
-<br>My partner and I got started on the new project. We've only worked on it briefly but we're on the same page and everything is moving along very smoothly, so I'm sure that we'll do well on the assignment. I haven't had much to do this past week, very few papers and assignments due, and it's feeling a little like the calm before the storm. The due date for my Graphics project got moved back by almost a week, and I couldn't be happier about it. Besides that, I did get to go to San Antonio and visit my family. While I was there, there was a huge anti-trump protest that was fun to watch over a bowl of ice cream, although unfortunately nothing got too wild.<br>
+<br>My partner and I finished up the Life project! After Darwin, it wasn't very hard to get a good grasp of this project, but it's the first project where I felt a little bit carried. However, I get the concepts and I contributed well enough, so I suppose it's all the same. I've also gotten started on my practice files for the upcoming exam. From the last exam, I'm certain that the way I should prepare for this exam is simply to go out and write these classes and methods again and again, so that's what I'm doing. Besides this class, there's been a few developments in my Graphics class. I'm getting to choose my own final project, so I've been looking into some potentially cool things to do. Maybe I'll post a demo here once I've made more progress!<br>
 
 <b>What's in your way?</b>
-<br>I still haven't been feeling at 100%. I'm thinking about going to the CMHC, but that's still up for debate. Schoolwise, we've finally gotten to the point where all of the constructors and their behaviors are starting to get a bit muddled in my head. It's incredibly interesting, though, and what better catalyst for learning is there? I'll get it in my head, I just need to go out and actually write a huge test class myself.<br>
+<br>Not very much in this class. If I had to say something, I'd say lack of practice. C++ isn't my language of choice and having to bounce between the syntax of one language and another can get the wires crossed occasionally. This goes double for the little nuanced differences between language structures. Practice, practice, practice! I'd also like to speak to anybody about the CS culture and getting jobs and all of that. Given that I've never been a part of the CS community and have never kept copies of past projects, I'm extremely lost. Hopefully ACM can help me, but they seem to be my only option.<br>
 
 <b>What will you do next week?</b>
-<br>The same old thing I've written here for twelve weeks, I'll be finishing up this project and working on my Graphics assignment. Not a very exciting post, I know, but it's the truth. I'd like to get this week done early so I can focus on my music, though. I brought some of my equipment from home and I'd like to develop myself further as a musician, but all in due time.<br>
+<br>Continue writing this big 'ol file to prep for the exam. Thanksgiving is coming up! I don't actually celebrate Thanksgiving. My entire family and I are Mexican and we've never felt any connection to the holiday, but I'm more than happy to take a week off from sleeping at the labs to go home and see my friends. Unfortunately, I still have class on Monday and Tuesday, but that's alright.<br>
 <br>
-This week, I'd like to recommend another podcast, the <a href="http://bigthink.com/articles?blog=think-again-podcast">BigThink Podcast</a>. It's an hour-long variety podcast that focuses on topics of sociology, philosophy, and ethics. The podcast is a little less digestible than the 15-minute history podcast I recommended last time, but it's interesting if you're willing to give the ideas a thought and challenge them, and yourself.
+This week, I'd like to recommend yet another golden nugget from my Graphics class, <a href="https://threejs.org/">The ThreeJS Library</a>, a javascript library which uses WebGL to create 3D graphics in-browser! Flip through their examples page for some cool ideas! I don't have much JavaScript experience, but I'll be giving it a shot over the next few days with this library.
 <br>
-Alright, that's all! I hope you enjoyed your weekend, friends.
+Enjoy your vacation, friends!
 <br><br>
 Until next time, dear reader.
