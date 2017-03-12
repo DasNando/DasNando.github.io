@@ -1,10 +1,10 @@
 ---
 layout: post
-title: SWE Week Seven!
+title: SWE Week Eight!
 ---
 
 <br><b>What did you do this past week?</b><br>
-This week, we took our first exam for this class! I went in confident in my conceptual understanding, but feeling underpracticed. The test was different than what I expected, as there was a much stronger focus on the readings than I thought there'd be. The programming questions focused more on knowledge of concepts and Python's mechanics, so it suited my preparation much better than a written exam. In the end, I did very well on the exam! I also finalized my group for Mobile Computing, so I'll have to start working our meeting times into my schedule.<br>
+My main focus this past week was my AI class! We had an exam on Thursday and, although I knew what to expect, it still took a bit of focus to prepare for. I ended up doing very well! This is the first time I've ever gotten results for a written exam back within a couple days of taking it. Typically, it takes a lot more time to grade the written responses, so it was a pleasant surprise to get that out of my mind right before Spring Break. Also, I got my group for this upcoming project! We've started talking on Slack and<br>
 <br><b>What's in your way?</b><br>
 The groups for this class! I failed to find a group in time, so it looks like I'll be placed in a group at random on Monday. I'm not totally opposed to the idea, since all of my classmates seem like fine people, I'd just like to avoid any conflicting styles when I can. Although, I guess conflicting workflows are part of working in groups, so it might be good practice for the workforce if my group is not on the same page.<br>
 <br><b>What will you do next week?</b><br>
