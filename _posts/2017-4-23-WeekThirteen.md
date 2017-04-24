@@ -1,16 +1,16 @@
 ---
 layout: post
-title: SWE Week Twelve!
+title: SWE Week Thirteen!
 ---
 
 <br><b>What did you do this past week?</b><br>
-This week I worked on the final phase of the project! It's going to come down to the wire again, but hopefully we can get enough done for our final product to be passable. We've only just hit Phase 2 standards, but such is life. We finally got the API working completely, which is nice given that a group will be relying on our API to finish their project. There's a few quality of life issues I'd like to address, like case-insensitivity and substrings, but I think an ILIKE query will solve all of those issues.<br>
+This past week, my team and I finished the final project for this class! It was a struggle, but we got most of it done. Shout out to Dylan Droll, who really ramped up the effort and made the website look incredible. I also started my internship application process. I know it's a bit late, but I actually have a few interviews lined up! Exciting!<br>
 <br><b>What's in your way?</b><br>
-As I posted on Piazza, I've been having a lot of issues with Google Cloud Platform deploying slowly. I saw an older Piazza post where other groups were having these issues, but ours seems to be on the extreme side, with a new version taking 12 hours+ to deploy.<br>
+Too much to do! I wish I had more time. The saving grace here is that there's a lull before the exam for this class. A lot of my other classes suddenly became very demanding, and I simply do not have the time.<br>
 <br><b>What will you do next week?</b><br>
-<i><b>PANIC</b></i>. Just kidding. Hopefully get everything done in time not to hurt the other group's presentation. I also have a bit of homework to do, but that will come when it does. Also, I've started applying to internships in Texas, so hopefully I can find something soon! At least, I'd like to pick up that tutor job with the school so that I can work part time somewhere else!<br>
+Interviews! There's a few very promising opporunities coming up for this summer. I'm a bit nervous, especially since I've never had an interview that wasn't for WalMart or Tech Support. Still, I'm excited. I'll actually be able to pay my rent this summer!!<br>
 <br><b>What's my experience of the class?</b><br>
-It's been great! The switch to Java is mildly annoying, but I learned some of this in OOP last year. The language was C++ then, but the "optionally extends, necessarily extends, etc." rules are the same, so it feels like familiar waters. One thing I'd like to suggest, however, is to make clear the limitations of the tools we're asked to use. I get that we should be discovering it mostly on our own, but PostgreSQL is a necessary part of our project and it is <i>not</i> inherently support by another tool; Google Cloud Platform. A student who is familiar with setting up SQL servers and such might find it surprising that Google Cloud Platform will not accept it, and only supports Postgres if you just through a few hoops first. I don't know, just my two cents.<br>
+Finishing out the semester strong! On a real note, the things I've learned in this class have really helped me. I don't think I'd be getting these interviews if it wasn't for these classes. One of the interviews I had recently actually went extremely well because I was the first candidate to have used Google Cloud Platform, which I used for this class.<br>
 <br><b>tip-of-the-week?</b><br>
-For my tip this week, I'd like to recommend the UT podcast: <a href="http://15minutehistory.org/">15 Minute History</a>! It's a monthly podcast that explores different aspects of history, be it the origins of Populism or the personal struggles of former slaves after the Civil War.<br>
+For my tip this week, I'd like to recommend <a href="https://fiddles.io/">Fiddles IO</a>, a set of online emulators for various languages. Their most popular one is their Javascript Fiddle, which allows you to test HTML, CSS, and Javascript and see the results immediately. A lot are still in the works, such as their Python Fiddle, but it's still a good tool for quick testing, such as syntactical questions.<br>
 Until next time!
